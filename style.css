@@ -1,0 +1,37 @@
+.header{
+    border: solid;
+    background-color: bisque;
+    display: flex;
+    justify-content:space-between;
+    margin-bottom: 50px;
+}
+
+.header img{
+    height: 50px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.games{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 100px;
+    background-color: blanchedalmond;
+}
+
+.games img{
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    margin: 25px;
+    border: solid;
+}
+
+
+
+.header a{
+margin: 10px;
+ color: brown;   
+}
